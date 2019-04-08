@@ -1,3 +1,4 @@
 1. Setup a new project
 2. Add default package structure in the project
 3. Integrate default code style and adding conflict a
+4. Also adding forth task to make conflict
