@@ -5,8 +5,3 @@
 4. Create user interaction functionality
 5. Adding fifth line
 
-=======
-3. Integrate default code style and adding conflict a
-4. Also adding forth task to make conflict
-5. Adding fifth line
->>>>>>> Revert "Deleting TODO.txt"
