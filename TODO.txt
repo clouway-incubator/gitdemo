@@ -3,5 +3,3 @@
 <<<<<<< HEAD
 3. Integrate default code style
 4. Create user interaction functionality
-5. Adding fifth line
-
